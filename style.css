@@ -1,1 +1,16 @@
+@font-face {
+  font-family: 'TabletGothic';
+  src: url('https://yourusername.github.io/tablet-gothic-viz/fonts/TabletGothic-Regular.woff2') format('woff2');
+}
+
+body {
+  font-family: 'TabletGothic', sans-serif;
+}
+
+.tablet-gothic-text {
+  font-size: 24px;
+  color: #222;
+  padding: 10px;
+  font-weight: 400;
+}
 
