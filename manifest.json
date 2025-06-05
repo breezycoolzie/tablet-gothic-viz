@@ -1,1 +1,8 @@
+{
+  "name": "Tablet Gothic Viz",
+  "description": "Visualization using Tablet Gothic font",
+  "author": "Your Name",
+  "visualization": "index.js",
+  "style": "style.css"
+}
 
